@@ -1,0 +1,2 @@
+# git-activity
+class activity
